@@ -1,0 +1,7 @@
+The default port is 8080
+
+make
+./server [ -p <port> ] [-v]
+
+-p Will specify the port
+-v Will enable verbose mode
