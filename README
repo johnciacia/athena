@@ -1,4 +1,4 @@
-The default port is 8080
+The default port is 8080.
 
 make
 ./server [ -p <port> ] [-v]
